@@ -1,5 +1,4 @@
 from typing import List, Tuple
-from datetime import datetime
 from collections import defaultdict
 import emoji as emojilib
 import json
